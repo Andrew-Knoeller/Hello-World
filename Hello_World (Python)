@@ -1,0 +1,7 @@
+# Hello World tradition (Python)
+
+def hello_World():
+  print("Hello World")
+  
+hello_World()
+  
